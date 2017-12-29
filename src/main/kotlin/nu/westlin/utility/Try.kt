@@ -1,3 +1,5 @@
+@file:Suppress("UNCHECKED_CAST")
+
 package nu.westlin.utility
 
 sealed class Try<out T> {
